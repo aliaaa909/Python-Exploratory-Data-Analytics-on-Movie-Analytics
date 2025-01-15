@@ -1,0 +1,1 @@
+For this project, I’m diving into exploratory data analysis (EDA) on a dataset full of movies from around the world and learning the basics of machine learning to build a model that predicts movie ratings based on the available features.
